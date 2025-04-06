@@ -67,3 +67,8 @@ Motion control with the help of Jacobians is an important topic to be considered
 <img src = "Pictures/ikjac.png" width="30%">
 <p>Jacobian-Based Inverse Kinematics Algorithm using gradient descent</p>
 </div>
+
+## Simulation Results
+<div align="center">
+<img src = "visualization_Simulation_Mohamed_Atta.gif" width="90%">
+</div>
